@@ -1,0 +1,14 @@
+Get data 
+Store raw data in Postgres
+
+Data cleaning
+Assign ID to players
+Convert data fields to numeric
+
+Feature engineering
+Days between games, miles traveled, time zones, family nearby, birthdays, etc
+
+Training
+Build sequences of pitches
+Build dynamic player profiles (hot zones over last five games, etc)
+Build scenarios (two batters after grand slam was hit, etc)
