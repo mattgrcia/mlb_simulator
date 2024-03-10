@@ -6,8 +6,6 @@ SELECT DISTINCT release_spin_rate FROM pitch
 
 ALTER TABLE pitch DROP COLUMN spin_dir
 
-SELECT * FROM
-
 CREATE TABLE batter
 (batter_id int PRIMARY KEY, batter_name text)
 
